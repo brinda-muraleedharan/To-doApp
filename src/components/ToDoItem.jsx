@@ -24,7 +24,7 @@ let ToDoItem = ({
           X
         </button>
       </div>
-      <hr className={styles.line}/>
+      <hr className={styles.line} />
     </div>
   );
 };
