@@ -1,4 +1,4 @@
-import ToDoItem from "./TodoItem";
+import ToDoItem from "./ToDoItem";
 import styles from './todolist.module.css';
 export default function TodoList({todoList,deleteTask,handleComplete}){
     let sortTodos=()=>{
