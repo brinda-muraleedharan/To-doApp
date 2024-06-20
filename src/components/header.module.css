@@ -1,0 +1,17 @@
+.site-header { 
+    border-bottom: 1px solid #ccc;
+    padding: .5em 1em;
+    display: flex;
+    justify-content:center;
+    font-size: 40px;
+    color: grey;
+    background-color: #f7ca18;
+    padding:10px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.2);
+  }
+  
+  .site-identity h1 {
+    font-size: 1.5em;
+    margin: .6em 0;
+    display: inline-block;
+  }
